@@ -1,6 +1,6 @@
 # WinCBT Universal &mdash; Secure Exam Browser
 
-Aplikasi Android Kiosk Client resmi dan universal untuk pelaksanaan Asesmen / Ujian Berbasis Komputer & Smartphone (**WinCBT Universal**). ujian aman, tertib, dan lancar.
+Aplikasi Android Kiosk Client resmi dan universal untuk pelaksanaan Asesmen / Ujian Berbasis Komputer & Smartphone (**WinCBT Universal**). Didedikasikan untuk membantu seluruh sekolah dan madrasah sahabat dalam menyelenggarakan ujian yang aman, tertib, dan bebas biaya lisensi vendor.
 
 ---
 
@@ -8,8 +8,8 @@ Aplikasi Android Kiosk Client resmi dan universal untuk pelaksanaan Asesmen / Uj
 
 * **Berkas APK**: `WinCBT_Universal_v1.0.0.apk` *(Instalasi langsung di perangkat siswa/sekolah)*
 * **Berkas AAB (Play Console)**: `WinCBT_Universal_v1.0.0.aab` *(Paket rilis Google Play Store)*
-* **Ukuran Berkas APK**: `5.435.685 bytes` (~5.44 MB)
-* **Ukuran Berkas AAB**: `4.818.171 bytes` (~4.82 MB)
+* **Ukuran Berkas APK**: `5.258.068 bytes` (~5.26 MB)
+* **Ukuran Berkas AAB**: `4.642.287 bytes` (~4.64 MB)
 * **Versi Rilis**: `v1.0.0 (Build 1)`
 * **Application ID**: `com.sekolah.wincbtuniversal`
 * **Target Kompatibilitas**: Android 8.0 (Oreo / API 26) hingga Android 15+ (Vanilla Ice Cream / API 35)
@@ -22,10 +22,10 @@ Sebelum instalasi atau deployment, integritas berkas biner dapat diverifikasi me
 
 ```text
 SHA-256 Checksum (APK):
-957D39DF238C64C529B7714DADAAD57D9B96DC26ADE56556AA093E392B9793E3
+90C6BC4AD31CCE3044856C735E3B09BD246E79C9F4C11DF1BEA7119B84A96611
 
 SHA-256 Checksum (AAB Play Console):
-AE266362579AA5B143D72E932879EED4AA5D6163838C8F9BD0074266F3C18A0D
+B4327CB5F8AF3E3B41A79817C1E6524CC5C1E4D756639F71D1F8813B9FDA303F
 ```
 
 Verifikasi di terminal/PowerShell:
@@ -76,4 +76,4 @@ E3:73:D2:8E:6A:1E:BE:9B:77:2E:F5:08:A0:D2:84:90:42:EE:99:3B
 
 ---
 
-&copy; Tim Pengembang WinCBT Universal &mdash;.
+&copy; Tim Pengembang WinCBT Universal &mdash; Dedikasi untuk Kemajuan Pendidikan Indonesia.
