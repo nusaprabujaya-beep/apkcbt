@@ -1,6 +1,6 @@
 # WinCBT Universal &mdash; Secure Exam Browser
 
-Aplikasi Android Kiosk Client resmi dan universal untuk pelaksanaan Asesmen / Ujian Berbasis Komputer & Smartphone (**WinCBT Universal**). Didedikasikan untuk membantu seluruh sekolah dan madrasah sahabat dalam menyelenggarakan ujian yang aman, tertib, dan bebas biaya lisensi vendor.
+Aplikasi Android Kiosk Client resmi dan universal untuk pelaksanaan Asesmen / Ujian Berbasis Komputer & Smartphone (**WinCBT Universal**). ujian yang aman, tertib, dan lancar.
 
 ---
 
@@ -76,4 +76,4 @@ E3:73:D2:8E:6A:1E:BE:9B:77:2E:F5:08:A0:D2:84:90:42:EE:99:3B
 
 ---
 
-&copy; Tim Pengembang WinCBT Universal &mdash; Dedikasi untuk Kemajuan Pendidikan Indonesia.
+&copy; Tim Pengembang WinCBT Universal.
